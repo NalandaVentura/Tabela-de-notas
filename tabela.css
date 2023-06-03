@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family= Poppins :wght@300 & display=swap');  
+
+button{
+    color: white;
+    border: none;
+    margin: 2px;
+    font-weight: bold;
+    width: 224px;
+    
+}
+#linhas{
+    background: #32cd32;
+    border-radius: 10px;
+}
+#notas{
+    background: #32cd32;
+    border-radius: 10px;
+    
+}
+
+#linhas:active, #notas:active{
+    border: solid 2px #32cd32;
+    background-color: white;
+    color: #32cd32;
+
+}
+#MdCrescente{
+    background: #20b2aa;
+    border-radius: 10px;
+}
+#MdDecrescente{
+    background: #20b2aa;
+    border-radius: 10px;
+}
+
+#MdCrescente:active, #MdDecrescente:active{
+    border: solid 2px #20b2aa;
+    background-color: white;
+    color: #20b2aa;
+}
+
+#alfabetica{
+    background: #ffe600;
+    border-radius: 10px;
+}
+
+#alfabetica:active{
+    border: solid 2px #ffe600;
+    background-color: white;
+    color: #ffe600;
+}
+
+#calcular{
+    background: #ff0000;
+    border-radius: 10px;
+}
+#calcular:active{
+    border: solid 2px #ff0000;
+    background-color: white;
+    color: #ff0000;
+}
+
+#txt_media{
+    font-size: 14pt;
+    background-color: #125f5b33;
+}
